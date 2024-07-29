@@ -1,6 +1,9 @@
 Extrator de Informações de NF-e
 Este projeto é um script em Python que extrai informações específicas de um arquivo XML de Nota Fiscal Eletrônica (NF-e). Utilizando a biblioteca xml.etree.ElementTree, o script busca e imprime o número da NF-e, o CNPJ do emitente, a descrição do produto e o valor total da NF-e.
 
+![image](https://github.com/user-attachments/assets/50cdd806-a288-4ba1-b170-2fa3cd0169fa)
+
+
 Requisitos
 Python 3.x
 Arquivo XML da NF-e
