@@ -6,6 +6,7 @@ Python 3.x
 Arquivo XML da NF-e
 Como usar
 Clone o repositório ou copie o código do script para o seu ambiente de desenvolvimento.
+git clone https://github.com/caiobarbosa881/leitura-nfe.git
 
 Certifique-se de ter o arquivo XML da NF-e disponível.
 
